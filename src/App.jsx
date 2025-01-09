@@ -6,13 +6,9 @@ import Layout from './Layout'
 function App() {
 
   return (
-    <BrowserRouter>
-      <Routes>
-        <Route path='/' element={<Layout/>}>
-          <Route/>
-        </Route>
-      </Routes>
-    </BrowserRouter>
+    <div>
+      
+    </div>
   )
 }
 
